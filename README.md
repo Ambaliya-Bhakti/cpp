@@ -66,4 +66,32 @@
 
     }
    <h3>output :-
+   
+   ![image](https://user-images.githubusercontent.com/122366504/212106812-d048a278-2ba2-4e27-884a-718eae1b719b.png)
+
+    
+    <h3> 3. WAP to find all leap years from 2020 to 3030 and storethem into an array.
+    
+    #include<iostream>
+    using namespace std;
+
+    int main()
+    {
+        int i;
+
+        for(i=2020;i<=3030;i++)
+        {
+            if(i % 4 == 0)
+            {
+                cout << i << " leap year.";
+            }
+        }
+
+
+    }
+    
+    output :-
+    
+   ![image](https://user-images.githubusercontent.com/122366504/212108646-690d0ede-49fe-44b8-9058-efe53f0afd92.png)
+
     
