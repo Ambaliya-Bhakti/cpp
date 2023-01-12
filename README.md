@@ -33,4 +33,4 @@
     }
 <h3>output :-
  
- > imagesrc ![image](https://user-images.githubusercontent.com/122366504/212064447-b466a7cc-4e83-4943-b247-e342ede291d2.png)
+ ![image](https://user-images.githubusercontent.com/122366504/212064447-b466a7cc-4e83-4943-b247-e342ede291d2.png)
